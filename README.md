@@ -45,7 +45,7 @@ Essa API foi desenvolvida para suprir de Back-end da aplicação [Rocketnotes](h
 8. Rode `npm run migrate` para criar tabelas no banco de dados.
 
 ## 🔗 Deploy
-API hospedada e rodando no [Netlify](https://explorer-rocketnotes.netlify.app)
+Aplicação hospedada e rodando no [Netlify](https://explorer-rocketnotes.netlify.app)
 
 ## :memo: Licença
 
